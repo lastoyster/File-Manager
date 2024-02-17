@@ -1,9 +1,9 @@
 // ignore_for_file: prefer_const_literals_to_create_immutables, prefer_const_constructors
 
-import 'package:file_manager_app_ui/component/custom_app_bar.dart';
-import 'package:file_manager_app_ui/component/list_tile.dart';
-import 'package:file_manager_app_ui/component/short_cut_detail.dart';
-import 'package:file_manager_app_ui/component/text_file.dart';
+import '/component/custom_app_bar.dart';
+import '/component/list_tile.dart';
+import '/component/short_cut_detail.dart';
+import '/component/text_file.dart';
 import 'package:flutter/material.dart';
 
 class SecondPage extends StatefulWidget {
